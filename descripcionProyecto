@@ -1,0 +1,33 @@
+Proyecto capstone 
+Sistema de monitoreo para uso adecuado de recursos en el hogar, con notificaciones a dispositivos móviles.
+
+Integrantes
+Arturo Zuñiga Lopez
+Cesar Benavides Alvarez
+
+Objetivos 
+
+General
+Ayudar al cuidado del mal uso de los servicios en el hogar con el fin de evitar usos innecesarios y desperdicios.
+
+Particulares.
+Cuidado y monitoreo del uso correcto de la energía eléctrica.
+Cuidado y monitoreo del uso correcto del agua.
+Sistema de respaldo de video vigilancia para detección de personas ajenas al hogar.
+Detector de fugas de gas.
+
+Materiales
+Sensor de gas. 
+Esp32cam
+Sensor de flujo de agua
+Válvula para cierre de agua y gas
+Sensor de lúmenes o luz
+Apagador inteligente
+
+Justificación
+
+Algunos de los principales problemas a lo largo de la vida en los diferentes hogares es el uso inadecuado de los recursos (agua, electricidad, gas), además de la vigilancia cuando los hogares se quedan solos, son objetivos de robo o ingresos de personas ajenas al hogar. Es por eso que proponemos un sistema basado en sensores que buscan detectar mal uso de los recursos, ayudado de una cámara de monitoreo, debido a que muchas veces el recurso es vigilado por las personas, pero otras veces no, y es por eso que mediante de un sistema de notificaciones se le puede avisar a un usuario de la casa que algún recurso está siendo usado de manera equivocada. 
+
+De la misma manera el sistema de cámaras puede estar activo y monitoreado cuando el hogar está solo, para avisar que algo se quedó encendido o que hay una persona merodeando en diferentes puntos de la casa. Se pueden enviar imágenes con notificaciones al usuario para que el pueda tomar acciones desde su dispositivo móvil.
+
+
